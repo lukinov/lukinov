@@ -44,7 +44,7 @@ My mission is simple: help engineering teams and integrators deliver automation 
 
 ### 🌐 Find Me Online
 - [optimajet.com](https://www.optimajet.com)  
-- [formengine.dev](https://formengine.dev)  
+- [formengine.io](https://formengine.io)  
 - [workflowengine.io](https://workflowengine.io)  
 
 ---
@@ -56,7 +56,7 @@ Let’s build developer tools that make automation effortless.
 <!--
 **lukinov/lukinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
